@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\VS code\\PR5.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A72DD3BC-09F5-4BE5-B510-0F824AE77DA6}|UnitTest1\\UnitTest1.vcxproj|D:\\VS\\VS code\\PR5.5\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A72DD3BC-09F5-4BE5-B510-0F824AE77DA6}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39C7F9B8-7A3A-430B-9754-B2770FC3F6DB}|PR5.5.vcxproj|D:\\VS\\VS code\\PR5.5\\PR5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39C7F9B8-7A3A-430B-9754-B2770FC3F6DB}|PR5.5.vcxproj|solutionrelative:PR5.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\VS\\VS code\\PR5.5\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\VS\\VS code\\PR5.5\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAhwC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T18:21:06.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PR5.5.cpp",
+              "DocumentMoniker": "D:\\VS\\VS code\\PR5.5\\PR5.5.cpp",
+              "RelativeDocumentMoniker": "PR5.5.cpp",
+              "ToolTip": "D:\\VS\\VS code\\PR5.5\\PR5.5.cpp",
+              "RelativeToolTip": "PR5.5.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-22T17:45:44.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
